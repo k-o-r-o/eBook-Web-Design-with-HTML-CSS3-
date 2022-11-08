@@ -1,0 +1,24 @@
+/*drake landon */
+
+body { color: #000;
+    background-color: #f90;
+    font-family: Calibri, sans-serif;
+    }
+
+#wraper { width: 80%;
+    margin: 0 auto 0 auto;
+    }
+
+.floatleft { float: left;
+    margin-right: 2%; 
+    }
+
+.floatright { float: right;
+    margin-right: 2%; 
+    }
+
+nav ul { list-style-type: none; 
+    }
+
+.boldtext, dt { font-weight: bold; 
+    }

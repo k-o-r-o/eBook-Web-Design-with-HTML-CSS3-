@@ -1,0 +1,32 @@
+ /* drake landon oct 2 2022 */
+nav  { clear: both;
+    }
+    
+img {float: left;}
+    .addrightmargin { margin-right: 2%;
+    }
+
+body { color: #000000;
+    background-color: #d9f1c1;
+    }
+
+#outerwrapper { width: 80%;
+    margin: 0 auto 0 auto;
+    }
+/* changes text to a certen font family*/
+header, nav, footer { font-family: Calibri, Arial, sans-serif;}
+    #main {font-family: Garamond, "Times New Roman", serif;
+    background-color: #F0f9e6;
+    padding: 10px; 
+    }
+
+footer { font-size: o.75em;
+    text-align: center;
+    }
+
+
+
+
+
+
+
